@@ -1,0 +1,8 @@
+{
+  "name": "hexo-plugin-loader-poc",
+  "description": "Proof of concept hexo plugin loader.",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Amobiz",
+  "license": "MIT"
+}
